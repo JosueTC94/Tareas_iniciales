@@ -38,7 +38,7 @@ Para la instalación de git se han utilizado los siguientes comandos:
 
 -*sudo apt-get install git*
 
-<img src="imagenes_tutorial/git.png" alt="No puede encontrarse la imagen" title="Instalacion git">
+<img src="Imagenes_tutorial/git.png" alt="No puede encontrarse la imagen" title="Instalacion git">
 
 
 
